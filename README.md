@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhishekkushare
+- 👋 Hi, I’m Abhishek Kushare
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning C# ASP.NET
 - 💞️ I’m looking to collaborate on ...
